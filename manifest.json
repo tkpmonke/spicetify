@@ -1,8 +1,8 @@
 [
   {
-    "name": "Catppuccin",
-    "description": "Official Catppuccin Theme for Spotify",
-    "preview": "assets/catppuccin-latte.webp",
+    "name": "TKP-Catppuccin-mocha",
+    "description": "Fork Of Catppuccin Theme for Spotify",
+    "preview": "assets/preview.png",
     "readme": "README.md",
     "usercss": "catppuccin/user.css",
     "schemes": "catppuccin/color.ini",
@@ -10,7 +10,8 @@
       "https://raw.githubusercontent.com/catppuccin/spicetify/main/catppuccin/theme.js"
     ],
     "authors": [
-      { "name": "Catppuccin Org", "url": "https://github.com/catppuccin" }
+      { "name": "Catppuccin Org", "url": "https://github.com/catppuccin" },
+      { "name": "tkpmonke", "url": "https://githuv.com/tkpmonke" }
     ],
     "tags": ["official", "palette"]
   }
